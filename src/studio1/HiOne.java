@@ -24,6 +24,7 @@ public class HiOne {
 		// if the value of name is "Pat"
 		//
 
+		System.out.print("Hi, " + name + "!" + " How are you?");
 	}
 
 }
